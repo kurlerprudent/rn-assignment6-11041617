@@ -29,7 +29,7 @@ product listings, check out detailed product information, add items to their sho
 
 # Screenshots
 
-![alt Image](assets\images\third.png)
-![alt Image2](assets\images\second.jpg)
-![alt Image3](assets\images\first.jpg)
-![alt Image4](assets\images\fourth.png)
+![alt Image](./assets/images/third.png)
+![alt Image2](./assets//images/second.jpg)
+![alt Image3](./assets//images/first.jpg)
+![alt Image4](./assets/images/fourth.png)
