@@ -12,9 +12,9 @@ product listings, check out detailed product information, add items to their sho
     1. Users have the ability to explore a range of products obtained from an external API.
     2. Detailed information about each product is available on a dedicated screen.
     3. Users can add products to their cart and conveniently remove items they do not want.
-    4. User selections and cart contents are stored locally using AsyncStorage.
-    5. Seamless accessibility is provided through a smooth drawer component or Expo's built-in navigation.
-    6. The app follows clean and responsive design principles, maintaining a polished UI.
+    4. User selections and cart contents are stored locally .
+    5. Seamless accessibility is provided through a smooth drawer component.
+   
 
 # Components
 
@@ -30,6 +30,5 @@ product listings, check out detailed product information, add items to their sho
 # Screenshots
 
 ![alt Image](./assets/images/third.png)
-![alt Image2](./assets//images/second.jpg)
-![alt Image3](./assets//images/first.jpg)
-![alt Image4](./assets/images/fourth.png)
+![alt Image2](./assets//images/one.jpg)
+![alt Image3](./assets//images/two.jpg)

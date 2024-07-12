@@ -4,16 +4,18 @@ import HeaderSection from '../Components/HeaderSection'
 import SecondSection from '../Components/SecondSection'
 import CardHolder from '../Components/CardHolder'
 
+
 const HomeScreen = () => {
   return (
    
-    <ScrollView>
+    
     <View style={styles.container}>
+      
       <HeaderSection/>
       <SecondSection/>
       <CardHolder/>
     </View>
-    </ScrollView>
+    
   )
 }
 

@@ -21,13 +21,13 @@ const styles = StyleSheet.create({
     container:{
         width:'100%',
         height:70,
-        backgroundColor:'black',
+        backgroundColor:'#494949',
         display:'flex',
         flexDirection:'row',
         justifyContent:'space-between',
         alignItems:'center',
         paddingHorizontal:20,
-        marginBottom:20
+        marginBottom:0
 
     },textEdit:{
         color:'white',
