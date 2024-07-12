@@ -29,6 +29,6 @@ product listings, check out detailed product information, add items to their sho
 
 # Screenshots
 
-![alt Image](./assets/images/third.png)
+![alt Image](./assets/images/three.jpg)
 ![alt Image2](./assets//images/one.jpg)
 ![alt Image3](./assets//images/two.jpg)
